@@ -32,7 +32,20 @@
 
 - Some other methods are
     - compareTo(String s)
-    - compareToIgnoreCase(String s) 
+    - compareToIgnoreCase(String s)
+    
+#### Methods in `java.util.Character` Class
+| Methods | Description | Returns | Notes | 
+| ------- | ----------- | ------- | ---- | 
+| isLetter(char c) | This method is used to determine whether the specified char value(ch) is a letter or not | boolean | only within [A-Za-z] |
+| isDigit(char c) | This method is used to determine whether the specified char value(ch) is a digit or not | boolean |
+| isWhitespace(char c) | It determines whether the specified char value(ch) is white space | boolean |
+
+- Some other methods are
+    - isUpperCase(char c)
+    - toUpperCase(char c)
+    - isLowerCase(char c)
+    - toLowerCase(char c) 
 
 
 #### Common syntax
@@ -42,8 +55,14 @@ String s = “Random String”;
 String s = new String (“Random String”);
 ```
 
+- Replace non-alphanumeric characters within String
+```java
+s.replaceAll("[^A-Za-z0-9]", "");
+``` 
+
 ### Examples
 - [`Reverse String:`](https://leetcode.com/problems/reverse-string/) [Solution](./src/practice/examples/ReverseString.java) (Easy)
 - [`Reverse Integer:`](https://leetcode.com/problems/reverse-integer/) [Solution](./src/practice/examples/ReverseInteger.java) (Easy)
 - [`First Unique Character:`](https://leetcode.com/problems/first-unique-character-in-a-string/) [Solution](./src/practice/examples/FirstUniqueChar.java) (Easy)
 - [`Valid Anagram:`](https://leetcode.com/problems/valid-anagram/) [Solution](./src/practice/examples/ValidAnagram.java) (Easy)
+- [`Valid Palindrome:`](https://leetcode.com/problems/valid-palindrome/) [Solution](./src/practice/examples/isPalindrome.java) (Easy)
