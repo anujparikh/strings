@@ -45,3 +45,4 @@ String s = new String (“Random String”);
 ### Examples
 - [`Reverse String:`](https://leetcode.com/problems/reverse-string/) [Solution](./src/practice/examples/ReverseString.java) (Easy)
 - [`Reverse Integer:`](https://leetcode.com/problems/reverse-integer/) [Solution](./src/practice/examples/ReverseInteger.java) (Easy)
+- [`First Unique Character:`](https://leetcode.com/problems/first-unique-character-in-a-string/) [Solution](./src/practice/examples/FirstUniqueChar.java) (Easy)
