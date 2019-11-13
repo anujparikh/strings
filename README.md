@@ -68,3 +68,4 @@ s.replaceAll("[^A-Za-z0-9]", "");
 - [`Valid Palindrome:`](https://leetcode.com/problems/valid-palindrome/) [Solution](./src/practice/examples/ValidPalindrome.java) (Easy)
 - [`String to Integer (atoi):`](https://leetcode.com/problems/string-to-integer-atoi/) [Solution](./src/practice/examples/StringToInteger.java) (Easy)
 - [`Implement strStr():`](https://leetcode.com/problems/implement-strstr/) [Solution](./src/practice/examples/IndexOfSubStr.java) (Easy)
+- [`Count And Say:`](https://leetcode.com/problems/count-and-say/) [Solution](./src/practice/examples/CountAndSay.java) (Easy)
