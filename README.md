@@ -70,3 +70,4 @@ s.replaceAll("[^A-Za-z0-9]", "");
 - [`Implement strStr():`](https://leetcode.com/problems/implement-strstr/) [Solution](./src/practice/examples/IndexOfSubStr.java) (Easy)
 - [`Count And Say:`](https://leetcode.com/problems/count-and-say/) [Solution](./src/practice/examples/CountAndSay.java) (Easy)
 - [`Longest Common Prefix:`](https://leetcode.com/problems/longest-common-prefix/) [Solution](./src/practice/examples/LongestCommonPrefix.java) (Easy)
+- [`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Solution](./src/practice/examples/LongestUniqueSubString.java) (Medium)
