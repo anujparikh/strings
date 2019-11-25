@@ -63,6 +63,7 @@ s.replaceAll("[^A-Za-z0-9]", "");
 ### Examples
 - [`Reverse String:`](https://leetcode.com/problems/reverse-string/) [Solution](./src/practice/examples/ReverseString.java) (Easy)
 - [`Reverse Integer:`](https://leetcode.com/problems/reverse-integer/) [Solution](./src/practice/examples/ReverseInteger.java) (Easy)
+- [`Palindrome Number`](https://leetcode.com/problems/palindrome-number/) [Solution](./src/practice/examples/PalindromeNumber.java) (Easy)
 - [`First Unique Character:`](https://leetcode.com/problems/first-unique-character-in-a-string/) [Solution](./src/practice/examples/FirstUniqueChar.java) (Easy)
 - [`Valid Anagram:`](https://leetcode.com/problems/valid-anagram/) [Solution](./src/practice/examples/ValidAnagram.java) (Easy)
 - [`Valid Palindrome:`](https://leetcode.com/problems/valid-palindrome/) [Solution](./src/practice/examples/ValidPalindrome.java) (Easy)
