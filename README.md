@@ -75,3 +75,4 @@ s.replaceAll("[^A-Za-z0-9]", "");
 - [`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Solution](./src/practice/examples/LongestUniqueSubString.java) (Medium)
 - [`Longest Palindromic Substring`](https://leetcode.com/problems/longest-palindromic-substring/) [Solution](./src/practice/examples/LongestPalindromicSubString.java) (Medium) - *This can also be done with Dynamic Programming*
 - [`ZigZag Conversion`](https://leetcode.com/problems/zigzag-conversion/) [Solution](./src/practice/examples/ZigZagConversation.java) (Medium)
+- [`Valid Parentheses`](https://leetcode.com/problems/valid-parentheses/) [Solution](./src/practice/examples/ValidParentheses.java) (Easy)
